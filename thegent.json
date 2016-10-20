@@ -4,8 +4,8 @@
       "footprint": "CR2032-battery-holder-smd", 
       "layer": "bottom", 
       "location": [
-        -25.946748, 
-        -0.331436
+        -0.22946, 
+        2.14138
       ], 
       "rotate": 0, 
       "show": true, 
@@ -278,8 +278,8 @@
       "footprint": "side-resistor", 
       "layer": "top", 
       "location": [
-        -15.163078, 
-        -6.702833
+        -13.750183, 
+        -7.089895
       ], 
       "rotate": 0, 
       "show": true, 
@@ -293,8 +293,8 @@
       "footprint": "side-resistor", 
       "layer": "top", 
       "location": [
-        16.685633, 
-        -6.849282
+        13.538252, 
+        -7.758525
       ], 
       "rotate": 0, 
       "show": true, 
@@ -338,8 +338,8 @@
       "footprint": "switch", 
       "layer": "bottom", 
       "location": [
-        30.88981, 
-        -33.165704
+        29.840683, 
+        -29.878439
       ], 
       "rotate": 0, 
       "show": true, 
@@ -353,14 +353,58 @@
       "footprint": "switch", 
       "layer": "bottom", 
       "location": [
-        -38.485037, 
-        -43.735453
+        -32.959634, 
+        -0.231651
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "show": false
+        }
+      }
+    }, 
+    "VR1": {
+      "footprint": "bourns-tc33x-pot", 
+      "layer": "bottom", 
+      "location": [
+        -24.279205, 
+        -30.115502
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "VR2": {
+      "footprint": "bourns-tc33x-pot", 
+      "layer": "bottom", 
+      "location": [
+        -24.422396, 
+        -21.089436
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
         }
       }
     }
