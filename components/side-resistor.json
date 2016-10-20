@@ -41,11 +41,21 @@
       [
         {
           "type": "rect",
-          "layers": ["top"],
-          "width": 1.2,
-          "height": 3
+	  "layers": ["top","bottom"],
+          "width": 1.5,
+          "height": 4,
+          "location": [0,0],
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.5,
+          "offset": [0, 0]
         }
       ]
+
     }
   }
 }

@@ -4,8 +4,8 @@
       "footprint": "CR2032-battery-holder-smd", 
       "layer": "bottom", 
       "location": [
-        -0.22946, 
-        2.14138
+        -1.358349, 
+        1.576936
       ], 
       "rotate": 0, 
       "show": true, 
@@ -23,101 +23,73 @@
       }
     }, 
     "J1": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "bug-bridge", 
+      "footprint": "solder-blob-jumper", 
       "layer": "bottom", 
       "location": [
-        -87.811105, 
-        20
+        12.854356, 
+        -4.998737
       ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
-        }, 
-        "shapes": {
           "show": false
         }
       }
     }, 
     "J2": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "bug-bridge", 
+      "footprint": "solder-blob-jumper", 
       "layer": "bottom", 
       "location": [
-        -92.811105, 
-        20
+        20.656996, 
+        4.486141
       ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
-        }, 
-        "shapes": {
           "show": false
         }
       }
     }, 
-    "J22": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "antenna", 
-      "layer": "top", 
+    "J3": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "bottom", 
       "location": [
-        -82.723322, 
-        22.017153
+        17.459058, 
+        6.062271
       ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
-        }, 
-        "shapes": {
           "show": false
         }
       }
     }, 
-    "J23": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "antenna", 
-      "layer": "top", 
+    "J4": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "bottom", 
       "location": [
-        -97.535203, 
-        22.323172
+        -14.882948, 
+        -4.398689
       ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
-        }, 
-        "shapes": {
           "show": false
         }
       }
     }, 
     "LED10": {
-      "footprint": "led-5mm", 
+      "footprint": "led-5mm-pt", 
       "layer": "top", 
       "location": [
-        29.537438, 
-        5.71725
+        31.795214, 
+        4.023917
       ], 
-      "rotate": 0, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -200,6 +172,21 @@
         }
       }
     }, 
+    "M1": {
+      "footprint": "monocole", 
+      "layer": "top", 
+      "location": [
+        33.488546, 
+        8.306667
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "MH1": {
       "assembly": {
         "refdef": {
@@ -244,6 +231,36 @@
         }
       }
     }, 
+    "MT1": {
+      "footprint": "motor", 
+      "layer": "bottom", 
+      "location": [
+        -22.116799, 
+        -0.653535
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "MT2": {
+      "footprint": "motor", 
+      "layer": "bottom", 
+      "location": [
+        28.438601, 
+        -8.714916
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "R1": {
       "footprint": "resistor", 
       "layer": "top", 
@@ -278,8 +295,8 @@
       "footprint": "side-resistor", 
       "layer": "top", 
       "location": [
-        -13.750183, 
-        -7.089895
+        -14.879071, 
+        -7.654339
       ], 
       "rotate": 0, 
       "show": true, 
@@ -293,8 +310,8 @@
       "footprint": "side-resistor", 
       "layer": "top", 
       "location": [
-        13.538252, 
-        -7.758525
+        12.973808, 
+        -8.322969
       ], 
       "rotate": 0, 
       "show": true, 
@@ -338,8 +355,8 @@
       "footprint": "switch", 
       "layer": "bottom", 
       "location": [
-        29.840683, 
-        -29.878439
+        -30.248144, 
+        -7.719981
       ], 
       "rotate": 0, 
       "show": true, 
@@ -349,62 +366,18 @@
         }
       }
     }, 
-    "SW2": {
-      "footprint": "switch", 
+    "T1": {
+      "footprint": "bjt-to92-space", 
       "layer": "bottom", 
       "location": [
-        -32.959634, 
-        -0.231651
+        20.506331, 
+        -0.651636
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "show": false
-        }
-      }
-    }, 
-    "VR1": {
-      "footprint": "bourns-tc33x-pot", 
-      "layer": "bottom", 
-      "location": [
-        -24.279205, 
-        -30.115502
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }, 
-        "shapes": {
-          "show": true
-        }
-      }
-    }, 
-    "VR2": {
-      "footprint": "bourns-tc33x-pot", 
-      "layer": "bottom", 
-      "location": [
-        -24.422396, 
-        -21.089436
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }, 
-        "shapes": {
-          "show": true
         }
       }
     }
@@ -501,7 +474,7 @@
   "outline": {
     "shape": {
       "type": "path", 
-      "value": "m -23.012813,-8.548637 c 8.996519,-2.955005 18.04357,-2.48125 26.058698,-2.678552 8.015128,-0.197304 15.712872,4.1646788 18.52048,6.1685718 -0.174862,-1.879772 -0.72655,-3.4599332 -2.043989,-5.8542498 7.595802,-0.393006 20.27187,0.513456 21.118901,13.9394018 -1.19238,6.084285 -11.521321,10.1273672 -16.932275,10.2934352 -2.359829,-0.03448 -2.085708,-1.783256 -4.046157,-2.528941 -2.762171,-1.0506288 -3.76676,-0.218171 -5.636866,0.874434 -1.870106,1.092605 -26.585388,3.119884 -31.280767,-0.689499 -1.250482,-1.0145216 -3.686883,-1.3686384 -5.522846,-1.1787364 -1.620344,0.167597 -3.771075,3.0194284 -5.592284,3.3314154 -18.725216,3.207775 -17.872433,-18.0361716 -11.734855,-22.099806 6.137578,-4.063634 12.913437,1.795006 17.09196,0.422526 z"
+      "value": "m -21.31948,-10.789278 c 8.996519,-2.955005 18.04357,-2.48125 26.058698,-2.678552 8.015128,-0.197304 14.034269,3.255435 16.841877,5.2593284 -0.174862,-1.8797724 -0.446783,-2.9703404 -1.764222,-5.3646574 7.595802,-0.393006 20.621579,2.551589 22.517737,15.4879418 C 41.14223,7.9990678 30.813289,12.04215 25.402335,12.208218 23.042506,12.173738 23.514452,10.820613 23.087149,9.9265586 21.812796,7.2602061 19.71604,10.202951 17.845934,11.295556 c -1.870106,1.092605 -30.096787,2.328583 -34.792166,-1.4808003 -1.250482,-1.0145216 -2.302106,-1.3191821 -4.138069,-1.1292801 -1.620344,0.167597 -3.771075,3.0194284 -5.592284,3.3314154 -18.725216,3.207775 -17.872433,-19.1650606 -11.734855,-23.228695 6.137578,-4.063634 12.913437,1.795006 17.09196,0.422526 z"
     }
   }, 
   "shapes": {
