@@ -24,11 +24,6 @@
     {
       "shapes":
       [
-	{
-	  "type": "circle",
-	  "layers": ["top"],
-          "diameter": 4.8
-	}
       ]
     },
     "assembly":

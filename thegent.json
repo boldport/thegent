@@ -97,81 +97,6 @@
         }
       }
     }, 
-    "LED2": {
-      "footprint": "10mm-led", 
-      "layer": "top", 
-      "location": [
-        -102.59651, 
-        1.288057
-      ], 
-      "rotate": 100, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "LED3": {
-      "footprint": "10mm-led", 
-      "layer": "top", 
-      "location": [
-        -83.734945, 
-        14.477122
-      ], 
-      "rotate": 289.782415, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "LED4": {
-      "footprint": "10mm-led", 
-      "layer": "top", 
-      "location": [
-        -96.591887, 
-        12.301091
-      ], 
-      "rotate": 281.121078, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "LED5": {
-      "footprint": "10mm-led", 
-      "layer": "top", 
-      "location": [
-        -103.41556, 
-        -14.264776
-      ], 
-      "rotate": -135, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "LED6": {
-      "footprint": "10mm-led", 
-      "layer": "top", 
-      "location": [
-        -77.27566, 
-        -13.621257
-      ], 
-      "rotate": -45, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "M1": {
       "footprint": "monocole", 
       "layer": "top", 
@@ -183,50 +108,6 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "MH1": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "mounting-hole", 
-      "layer": "top", 
-      "location": [
-        -86.395201, 
-        27.408108
-      ], 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }, 
-        "shapes": {
-          "show": false
-        }
-      }
-    }, 
-    "MH2": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "mounting-hole", 
-      "layer": "top", 
-      "location": [
-        -92.702278, 
-        27.398794
-      ], 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }, 
-        "shapes": {
           "show": false
         }
       }
@@ -261,36 +142,6 @@
         }
       }
     }, 
-    "R1": {
-      "footprint": "resistor", 
-      "layer": "top", 
-      "location": [
-        -77.53744, 
-        -22.373666
-      ], 
-      "rotate": 130, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R2": {
-      "footprint": "resistor", 
-      "layer": "top", 
-      "location": [
-        -103.0686, 
-        -22.503
-      ], 
-      "rotate": -130, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "R3": {
       "footprint": "side-resistor", 
       "layer": "top", 
@@ -314,36 +165,6 @@
         -8.322969
       ], 
       "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R5": {
-      "footprint": "resistor", 
-      "layer": "top", 
-      "location": [
-        -76.318273, 
-        11.370666
-      ], 
-      "rotate": 62, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R6": {
-      "footprint": "resistor", 
-      "layer": "top", 
-      "location": [
-        -104.38477, 
-        11.4515
-      ], 
-      "rotate": -62, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -417,8 +238,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        89.608232, 
-        -4.1496477
+        -26.493447, 
+        -20.144655
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -431,8 +252,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        92.760215, 
-        -17.161849
+        -25.68556, 
+        -33.294744
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -445,8 +266,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.2mm", 
       "location": [
-        88.950224, 
-        -27.889099
+        -29.357663, 
+        -44.29777
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -456,7 +277,7 @@
   }, 
   "drill-index": {
     "location": [
-      42.44274, 
+      43.295852, 
       -6.3958049
     ]
   }, 
