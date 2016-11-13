@@ -252,13 +252,13 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -25.68556, 
-        -33.294744
+        -22.298896, 
+        -36.116964
       ], 
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, red\nSurface finish: ENIG"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: copper (any thickness)\nSilkscreen: top, bottom, white\nSoldermask: top (blue and green), bottom (green)\nSurface finish: any lead free / RoHS\n\nThis is a two-colour soldermask board.\nFor the top soldermask use _green.ger for green soldermask and\nand _blue.json for blue soldermask."
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -267,7 +267,7 @@
       "line-height": "1.2mm", 
       "location": [
         -29.357663, 
-        -44.29777
+        -49.94221
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -306,11 +306,17 @@
         34.638423, 
         -3.436089
       ], 
-      "show": true, 
-      "sikscreen": {
-        "refdef": {
-          "show": false
-        }
+      "show": true
+      }
+    }, 
+    "GENT": {
+      "footprint": "the-gent", 
+      "layer": "bottom", 
+      "location": [
+        -0.55515, 
+        -10.758843
+      ], 
+      "show": true
       }
     }, 
     "JMP-LGND": {
@@ -320,11 +326,7 @@
         -25.128062, 
         6.529579
       ], 
-      "show": true, 
-      "sikscreen": {
-        "refdef": {
-          "show": false
-        }
+      "show": true
       }
     }, 
     "SM-BLUE": {
@@ -334,11 +336,7 @@
         13.468718, 
         0.012473
       ], 
-      "show": false, 
-      "sikscreen": {
-        "refdef": {
-          "show": false
-        }
+      "show": false
       }
     }, 
     "SM-GREEN": {
@@ -348,12 +346,7 @@
         -11.828391, 
         -0.099781
       ], 
-      "show": true, 
-      "sikscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
+      "show": true
     }, 
     "SS-OUTLINE": {
       "footprint": "ss-top-outline", 
@@ -362,12 +355,7 @@
         0, 
         0
       ], 
-      "show": true, 
-      "sikscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
+      "show": true
     }
   }, 
   "soldermask": {
