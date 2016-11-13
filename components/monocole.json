@@ -35,7 +35,7 @@
           "type": "circle",
 	  "layers": ["top"],
           "outline": 0,
-          "diameter": 1.4,
+          "diameter": 1.9,
           "offset": [0, 0] 
         },
         {

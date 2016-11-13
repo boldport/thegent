@@ -46,13 +46,19 @@
           "height": 4,
           "location": [0,0],
           "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        },
+        {
+          "type": "circle",
+	  "layers": ["top","bottom"],
+          "outline": 0,
+          "diameter": 1.5,
+          "offset": [0, 0] 
         }
       ],
       "drills":
       [
         {
-          "diameter": 0.5,
-          "offset": [0, 0]
+          "diameter": 0.5
         }
       ]
 
