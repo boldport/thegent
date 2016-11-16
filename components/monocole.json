@@ -61,41 +61,6 @@
           "offset": [0, 0]
         }
       ]
-    },
-    "short":
-    {
-      "shapes":
-      [
-        {
-          "type": "circle",
-	  "layers": ["top"],
-          "outline": 0,
-          "diameter": 1.4,
-          "offset": [0, 0] 
-        },
-        {
-          "type": "circle",
-	  "layers": ["bottom"],
-          "outline": 0,
-          "diameter": 1.9,
-          "offset": [0, 0] 
-        },
-        {
-          "type": "rect",
-	  "layers": ["bottom"],
-          "width": 1.9,
-          "height": 5,
-          "location": [0,2.5],
-          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0, "br": 0}
-        }
-      ],
-      "drills":
-      [
-        {
-          "diameter": 1.1,
-          "offset": [0, 0]
-        }
-      ]
     }
   }
 }
