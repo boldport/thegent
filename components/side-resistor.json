@@ -13,7 +13,7 @@
     {	
       "layout": 
       {
-        "pad": "th", 
+        "pad": "pad", 
         "location": [1.5, 0]
       }
     }
@@ -43,7 +43,7 @@
           "type": "rect",
 	  "layers": ["top","bottom"],
           "width": 1.5,
-          "height": 4,
+          "height": 3,
           "location": [0,0],
           "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
         },
@@ -61,7 +61,20 @@
           "diameter": 0.5
         }
       ]
-
+    },
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+	  "layers": ["top","bottom"],
+          "width": 1.5,
+          "height": 3,
+          "location": [0,0],
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
     }
   }
 }
