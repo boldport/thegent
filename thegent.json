@@ -5,7 +5,7 @@
       "layer": "bottom", 
       "location": [
         -1.358349, 
-        1.576936
+        -2.374175
       ], 
       "rotate": 0, 
       "show": true, 
@@ -22,57 +22,12 @@
         }
       }
     }, 
-    "J1": {
-      "footprint": "solder-blob-jumper-sq", 
-      "layer": "bottom", 
-      "location": [
-        12.854356, 
-        -4.503237
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J2": {
-      "footprint": "solder-blob-jumper", 
-      "layer": "bottom", 
-      "location": [
-        22.509525, 
-        5.656159
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J3": {
-      "footprint": "solder-blob-jumper-sq", 
-      "layer": "bottom", 
-      "location": [
-        15.091797, 
-        7.431156
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "J4": {
       "footprint": "solder-blob-jumper", 
       "layer": "bottom", 
       "location": [
-        -14.882948, 
-        -3.569926
+        23.855232, 
+        8.973474
       ], 
       "rotate": 0, 
       "show": true, 
@@ -112,12 +67,27 @@
         }
       }
     }, 
-    "MT1": {
-      "footprint": "motor", 
+    "M2": {
+      "footprint": "tounge", 
+      "layer": "top", 
+      "location": [
+        38.72976, 
+        -3.065427
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "flat-resistor", 
       "layer": "bottom", 
       "location": [
-        -21.552355, 
-        -4.040201
+        20.601767, 
+        -1.930432
       ], 
       "rotate": 0, 
       "show": true, 
@@ -127,12 +97,12 @@
         }
       }
     }, 
-    "MT2": {
-      "footprint": "motor", 
+    "R2": {
+      "footprint": "flat-resistor", 
       "layer": "bottom", 
       "location": [
-        27.609838, 
-        -7.569273
+        -25.642873, 
+        -0.270876
       ], 
       "rotate": 0, 
       "show": true, 
@@ -146,8 +116,8 @@
       "footprint": "side-resistor", 
       "layer": "top", 
       "location": [
-        -14.810127, 
-        -7.378563
+        -14.827363, 
+        -7.757755
       ], 
       "rotate": 0, 
       "show": true, 
@@ -172,12 +142,27 @@
         }
       }
     }, 
+    "RP": {
+      "footprint": "resistor-pack", 
+      "layer": "bottom", 
+      "location": [
+        -3.559026, 
+        8.341138
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "SW1": {
       "footprint": "switch", 
       "layer": "bottom", 
       "location": [
-        -31.941476, 
-        -7.719981
+        29.315259, 
+        -4.134893
       ], 
       "rotate": 0, 
       "show": true, 
@@ -191,8 +176,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "bottom", 
       "location": [
-        20.506331, 
-        -5.731636
+        -33.763476, 
+        -5.892464
       ], 
       "rotate": 180, 
       "show": true, 
@@ -216,9 +201,9 @@
   "distances": {
     "from-pour-to": {
       "drill": 0.4, 
-      "outline": 0.25, 
-      "pad": 0.25, 
-      "route": 0.25
+      "outline": 0.2, 
+      "pad": 0.2, 
+      "route": 0.2
     }, 
     "soldermask": {
       "circle-buffer": 0.05, 
@@ -303,31 +288,30 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        34.638423, 
-        -3.436089
+        -21.653095, 
+        0.598585
       ], 
+      "scale": 0.8, 
       "show": true
-      }
     }, 
     "GENT": {
       "footprint": "the-gent", 
       "layer": "bottom", 
       "location": [
-        -0.55515, 
-        -10.758843
+        17.542647, 
+        -1.382459
       ], 
+      "rotate": -90, 
       "show": true
-      }
     }, 
-    "JMP-LGND": {
-      "footprint": "jump-legend", 
-      "layer": "bottom", 
+    "POURS": {
+      "footprint": "pours", 
+      "layer": "top", 
       "location": [
-        -25.128062, 
-        6.529579
+        0, 
+        0
       ], 
       "show": true
-      }
     }, 
     "SM-BLUE": {
       "footprint": "sm-blue", 
@@ -337,7 +321,6 @@
         0.012473
       ], 
       "show": false
-      }
     }, 
     "SM-GREEN": {
       "footprint": "sm-green", 
