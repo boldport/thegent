@@ -20,7 +20,7 @@
           "type": "circle",
 	  "layers": ["top", "internal", "bottom"],
 	  "style": "fill",
-          "diameter": 0.72,
+          "diameter": 0.87,
           "buffer-to-pour": 0.125,
           "soldermask": {}
         }
@@ -28,7 +28,7 @@
       "drills":
       [
         {
-          "diameter": 0.35
+          "diameter": 0.50
         }
       ]
     }
