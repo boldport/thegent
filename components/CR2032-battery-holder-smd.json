@@ -14,7 +14,8 @@
     {	
       "layout": 
       {
-        "pad": "pad", 
+        "pad": "pad",
+        "rotate": -45, 
         "location": [0, 0]
       }
     },
@@ -24,7 +25,7 @@
       {
         "pad": "pad-sm", 
         "location": [-13.2, 0],
-        "rotate": -290
+        "rotate": 10
       }
     }
   },
@@ -36,7 +37,7 @@
       [
         {
           "layers": ["top"],
-          "location": [0.3,0.2],
+          "location": [-0.1,-0.15],
           "type": "path",
           "style": "stroke",
           "stroke-width": 0.3,
