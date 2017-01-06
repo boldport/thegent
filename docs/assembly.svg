@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,9 +36,9 @@
      showgrid="true"
      inkscape:document-units="mm"
      inkscape:window-maximized="1"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="731.0053"
-     inkscape:cy="148.23975"
+     inkscape:zoom="1"
+     inkscape:cx="523.28047"
+     inkscape:cy="201.79942"
      inkscape:window-width="1885"
      inkscape:window-height="1056"
      inkscape:window-x="35"
@@ -2666,6 +2666,45 @@
        d="m 115.78222,-75.851038 10.61163,-0.209066"
        id="path7774"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80603361px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-80.091003"
+       y="-32.637775"
+       id="text21519-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99650953,1.0035027)"><tspan
+         id="tspan7019-8"
+         sodipodi:role="line"
+         x="-80.091003"
+         y="-32.637775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80603361px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">* There's a minor problem with the board that needs fixing; see boldport.com/gent</tspan></text>
+    <text
+       transform="scale(0.99650953,1.0035027)"
+       sodipodi:linespacing="125%"
+       id="text4364"
+       y="-75.64698"
+       x="56.725746"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
+         y="-75.64698"
+         x="56.725746"
+         sodipodi:role="line"
+         id="tspan4366">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.959839"
+       y="-81.712357"
+       id="text4368"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99650953,1.0035027)"><tspan
+         id="tspan4370"
+         sodipodi:role="line"
+         x="82.959839"
+         y="-81.712357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">*</tspan></text>
   </g>
   <!--
 Hello! This SVG file was generated using PCBmodE version 4.1.dev9+ng7bc8ee6 on 2016-09-24 20:24:11 GMT. 
