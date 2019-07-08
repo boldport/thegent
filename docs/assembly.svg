@@ -17,8 +17,8 @@
    sodipodi:docname="assembly.svg"
    style="fill:#000000"
    inkscape:export-filename="/home/saar/proj/boards/thegent/docs/assembly.png"
-   inkscape:export-xdpi="299.96829"
-   inkscape:export-ydpi="299.96829">
+   inkscape:export-xdpi="182.67421"
+   inkscape:export-ydpi="182.67421">
   <metadata
      id="metadata4352">
     <rdf:RDF>
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,8 +37,8 @@
      inkscape:document-units="mm"
      inkscape:window-maximized="1"
      inkscape:zoom="2.0000001"
-     inkscape:cx="321.28389"
-     inkscape:cy="361.64754"
+     inkscape:cx="434.28389"
+     inkscape:cy="349.64754"
      inkscape:window-width="3778"
      inkscape:window-height="2096"
      inkscape:window-x="62"
