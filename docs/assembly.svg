@@ -13,7 +13,7 @@
    viewBox="0 0 276.47531 138.44207"
    width="276.47531mm"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="assembly.svg"
    style="fill:#000000"
    inkscape:export-filename="/home/saar/proj/boards/thegent/docs/assembly.png"
@@ -36,13 +36,13 @@
      showgrid="true"
      inkscape:document-units="mm"
      inkscape:window-maximized="1"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="179.43652"
-     inkscape:cy="354.29592"
-     inkscape:window-width="1881"
-     inkscape:window-height="1056"
-     inkscape:window-x="39"
-     inkscape:window-y="24"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="321.28389"
+     inkscape:cy="361.64754"
+     inkscape:window-width="3778"
+     inkscape:window-height="2096"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
      inkscape:current-layer="g3318"
      fit-margin-top="15"
      fit-margin-right="15"
@@ -53,13 +53,13 @@
        emspacing="5"
        enabled="false"
        id="pcbmode-grid"
-       spacingx="0.1mm"
-       spacingy="0.1mm"
+       spacingx="0.1"
+       spacingy="0.1"
        type="xygrid"
        units="mm"
        visible="true"
        originx="38.894474"
-       originy="-44.346328" />
+       originy="-44.346329" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -70,53 +70,50 @@
      id="g3318">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-60.430374"
        y="-89.643547"
        id="text21519"
-       sodipodi:linespacing="125%"
        transform="scale(0.99650953,1.0035027)"><tspan
          sodipodi:role="line"
          id="tspan21521"
          x="-60.430374"
          y="-89.643547"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;">Boldport Club Project #10</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Boldport Club Project #10</tspan><tspan
          id="tspan7017"
          sodipodi:role="line"
          x="-60.430374"
-         y="-86.115768"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;">http://boldport.com/gent</tspan><tspan
+         y="-85.262558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">http://boldport.com/gent</tspan><tspan
          id="tspan7019"
          sodipodi:role="line"
          x="-60.430374"
-         y="-82.58799"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;">http://boldport.club</tspan></text>
+         y="-80.881569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">http://boldport.club</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text21527"
        y="-91.363403"
        x="-81.123817"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.51474118px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        transform="scale(1.0072701,0.99278237)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.51474118px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          y="-91.363403"
          x="-81.123817"
          id="tspan21529"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.51474118px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-80.824738"
        y="-88.276718"
        id="text21531"
-       sodipodi:linespacing="125%"
        transform="scale(1.0125443,0.98761111)"><tspan
          sodipodi:role="line"
          id="tspan21533"
          x="-80.824738"
          y="-88.276718"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.51474118px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.51474118px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"> </tspan></text>
     <g
        id="g4392">
       <path
@@ -1860,11 +1857,10 @@
            id="path8933" />
       </g>
       <text
-         sodipodi:linespacing="100%"
          id="text5021"
          y="-81.829155"
          x="-227.27937"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.81797981px;line-height:100%;font-family:GoodDog;-inkscape-font-specification:'GoodDog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:GoodDog;-inkscape-font-specification:'GoodDog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan5025"
            y="-81.829155"
@@ -1877,22 +1873,20 @@
        transform="matrix(1.174308,0,0,1.174308,129.02728,1.5538691)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.34763384px;line-height:100%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="-58.090759"
          y="-112.4879"
-         id="text9160"
-         sodipodi:linespacing="100%"><tspan
+         id="text9160"><tspan
            id="tspan9162"
            sodipodi:role="line"
            x="-57.949646"
            y="-112.4879"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.34763384px;line-height:100%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">A playful chameleon soldering kit</tspan></text>
       <text
-         sodipodi:linespacing="100%"
          id="text4913"
          y="-112.4879"
          x="-58.090759"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.34763384px;line-height:100%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.34763384px;line-height:100%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold';text-align:center;letter-spacing:0.28222224px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="-112.4879"
@@ -2542,34 +2536,32 @@
     </g>
     <text
        transform="scale(0.99650953,1.0035027)"
-       sodipodi:linespacing="125%"
        id="text6992"
        y="-71.292381"
        x="-60.430374"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
          y="-71.292381"
          x="-60.430374"
          id="tspan6994"
          sodipodi:role="line">In collaboration with</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;"
-         y="-67.764603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="-66.911392"
          x="-60.430374"
          sodipodi:role="line"
          id="tspan7013">Eurocicruits</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;"
-         y="-64.236824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="-62.530403"
          x="-60.430374"
          sodipodi:role="line"
          id="tspan7015">http://eurocircuits.com</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="61.67717"
        y="-40.014748"
        id="text7604"
-       sodipodi:linespacing="125%"
        transform="scale(0.99650953,1.0035027)"><tspan
          id="tspan7610"
          sodipodi:role="line"
@@ -2669,24 +2661,22 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80603361px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-80.091003"
-       y="-32.637775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.23405838px;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-80.030167"
+       y="-35.113079"
        id="text21519-1"
-       sodipodi:linespacing="125%"
-       transform="scale(0.99650953,1.0035027)"><tspan
+       transform="scale(0.99650954,1.0035027)"><tspan
          id="tspan7019-8"
          sodipodi:role="line"
-         x="-80.091003"
-         y="-32.637775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80603361px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">* There's a minor problem with the board that needs fixing; see boldport.com/gent</tspan></text>
+         x="-80.030167"
+         y="-35.113079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29276848px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000;stroke-width:1px">* There's a minor problem with the board that needs fixing; see boldport.com/gent</tspan></text>
     <text
        transform="scale(0.99650953,1.0035027)"
-       sodipodi:linespacing="125%"
        id="text4364"
        y="-75.64698"
        x="56.725746"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
          y="-75.64698"
@@ -2695,16 +2685,75 @@
          id="tspan4366">*</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.959839"
        y="-81.712357"
        id="text4368"
-       sodipodi:linespacing="125%"
        transform="scale(0.99650953,1.0035027)"><tspan
          id="tspan4370"
          sodipodi:role="line"
          x="82.959839"
          y="-81.712357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">*</tspan></text>
+    <text
+       transform="scale(0.99650954,1.0035027)"
+       id="text1894"
+       y="-32.435333"
+       x="-80.030167"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.23405838px;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29276848px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000;stroke-width:1px"
+         y="-32.435333"
+         x="-80.030167"
+         sodipodi:role="line"
+         id="tspan1892">** Don't use this solder-blob jumper; see boldport.com/gent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-68.40107"
+       y="-124.71689"
+       id="text1898"
+       transform="scale(0.99650953,1.0035027)"><tspan
+         id="tspan1896"
+         sodipodi:role="line"
+         x="-68.40107"
+         y="-124.71689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">*</tspan></text>
+    <text
+       transform="scale(0.99650953,1.0035027)"
+       id="text1902"
+       y="-124.71689"
+       x="-66.276985"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
+         y="-124.71689"
+         x="-66.276985"
+         sodipodi:role="line"
+         id="tspan1900">*</tspan></text>
+    <text
+       transform="scale(0.99650953,1.0035027)"
+       id="text1906"
+       y="-95.155006"
+       x="43.253281"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
+         y="-95.155006"
+         x="43.253281"
+         sodipodi:role="line"
+         id="tspan1904">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="45.377365"
+       y="-95.155006"
+       id="text1910"
+       transform="scale(0.99650953,1.0035027)"><tspan
+         id="tspan1908"
+         sodipodi:role="line"
+         x="45.377365"
+         y="-95.155006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64727926px;line-height:125%;font-family:'Autour One';-inkscape-font-specification:'Autour One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000">*</tspan></text>
   </g>
   <!--
